@@ -1,5 +1,5 @@
 <div align="center">
-![MFOUR LABS BANNER IMAGE](https://github.com/user-attachments/assets/ca15a70a-97bb-4fb8-ac54-c35917ba36c1)
+    <img src="https://github.com/user-attachments/assets/2049dbee-553e-489a-a83d-fd3632757b38" />
 </div>
 
 <h1 align="center">Hi, I'm Yasan Lakmal.</h1>
