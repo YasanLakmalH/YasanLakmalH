@@ -1,5 +1,5 @@
 <div align="center">
-<img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/3aa77e0f-c275-4559-819d-f2493a0afc30" />
+![MFOUR LABS BANNER IMAGE](https://github.com/user-attachments/assets/ca15a70a-97bb-4fb8-ac54-c35917ba36c1)
 </div>
 
 <h1 align="center">Hi, I'm Yasan Lakmal.</h1>
