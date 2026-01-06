@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" width="100%" alt="MFOUR LABS Architecture Banner" />
+<img width="2000" height="600" alt="Black and White Simple Name LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/3aa77e0f-c275-4559-819d-f2493a0afc30" />
 </div>
 
 <h1 align="center">Hi, I'm Yasan Lakmal.</h1>
@@ -10,13 +10,13 @@
 </p>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://linkedin.com/in/yasan-lakmal-7b6993223">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_Architect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mfourlabs.com">
     <img src="https://img.shields.io/badge/MFOUR_LABS-Visit_Research_Lab-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:yasan@mfourlabs.com">
+  <a href="mailto:yasan.hemachandra@mfourlabs.dev">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -31,7 +31,7 @@ Most AI deployments today are **"Gambling as a Service."** We write a prompt, ch
 
 I founded **MFOUR LABS** to solve the "Vibe Gap." My work focuses on replacing stochastic uncertainty with **Deterministic Governance Infrastructure**.
 
-* 🔭 **Currently Building:** [**Iron Grade**](https://github.com/YOUR_USERNAME/iron-grade-repo) - A middleware kernel for governing High-Risk Agents.
+* 🔭 **Currently Building:** [**Iron Grade**]- A middleware kernel for governing High-Risk Agents.
 * 📜 **Standardizing:** The **MFOUR Vibe Framework (MVF)** (DOI 10.5281/zenodo.17924468).
 * 🧠 **Researching:** Identity Kernels, Synapse Routing, and Adversarial "Mirror" Protocols.
 
@@ -54,19 +54,14 @@ I focus on **Systems Engineering** over "Scripting."
 My public repositories act as a **Research Log** for the MVF Standard.
 
 * **Zone 1 (The Kernel):** Developing immutable XML-based system prompts that resist "Jailbreak" attempts.
-* **Zone 2 (The Synapse):** Creating deterministic routers (State Machines) to decouple reasoning from generation.
-* **Zone 5 (The Mirror):** Building an adversarial "Judge Agent" that audits responses against ISO 42001 standards before user delivery.
 
 ---
 
 ### 📊 Engineering Vitals
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=3B82F6&text_color=E2E8F0" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=F59E0B&fire=EF4444&currStreakLabel=F59E0B" />
-</div>
-
+<img width="2000" height="1414" alt="MVF CANVAS™ v1 0" src="https://github.com/user-attachments/assets/11411110-f8c7-46ea-bd9a-2cf90883dbaa" />
+<br/>
 ---
 
 <p align="center">
